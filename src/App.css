@@ -1,0 +1,265 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
+  width: 100%;
+  height: 50px;
+  background:rgba(0,0,0,0.5);
+
+}
+.navlinks{
+  margin: 5px;
+}
+.d-block{
+  height: 500px;
+}
+.ourfuter{
+  width: 100%;
+  height:450px ;
+  background: grey;
+}
+.card{
+  float: left;
+  margin: 24px;
+  height: 60%;
+}
+.divnamefuter{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 25px;
+  background: white;
+}
+.cardimage{
+  min-height: 295px;
+}
+.divpeople{
+  background: gray;
+    width: 60%;
+    margin-left: 260px;
+}
+.divfeatures{
+  width: 100%;
+  height: 300px;
+  background: aquamarine;
+  clear: both;
+}
+.divbot{
+  width: 100%;
+  height: 120px;
+  background: grey  ;
+  position: relative
+
+}
+.divbot p{
+  color: white;
+  position: absolute;
+  top: 80px;
+  left: 655px;
+}
+.divbot .img {
+  width: 6%;
+    position: absolute;
+    left: 60px;
+    top: 10px;
+}
+.fab{
+  position: absolute;
+  top:35px;
+  font-size: 40px;
+  color: #14C7C6;
+}
+.divlogin{
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: #ffbc00a3;
+}
+.divlogin .checkbox{
+  position: absolute;
+  top: 360px;
+  left: 850px;
+
+}
+.checklabel{
+  position: absolute;
+  top: 352px;
+  left: 870px;
+}
+ .loglab{
+  position: absolute;
+  top: 150px;
+  left: 400px
+}
+.loginp{
+    position: absolute;
+    top: 190px;
+    left: 400px;
+    width: 500px;
+
+}
+.paslab{
+  position: absolute;
+    top: 260px;
+    left: 400px
+}
+.pasinp{
+  position: absolute;
+    top: 300px;
+    left: 400px;
+    width: 500px;
+}
+.btnlog{
+  position: absolute;
+    top: 350px;
+    left: 430px;
+    background: #28a745;
+    color:white
+}
+.btnreg{
+  position: absolute;
+  top: 350px;
+  left: 650px;
+  background: #007bff;
+  color:white
+}
+.spanlog{
+  position: absolute;
+  top:220px;
+  left: 400px;
+  color: red
+}
+.spanpass{
+  position: absolute;
+  top:325px;
+  left: 400px;
+  color: red
+}
+.burger{
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  background: #2bff00a3
+}
+.burgersum{
+  position: absolute;
+  font-size: 25px;
+  top: 150px;
+  left: 150px;
+}
+.selectburg{
+  position: absolute;
+  top: 250px;
+  left: 900px;
+}
+.burgergoback{
+  position: absolute;
+  bottom: 30px ;
+  left: 600px;
+}
+.burgerimg{
+  position: absolute;
+  top: 200px;
+  left: 250px;
+}
+.burger{
+  position: relative;
+  width: 100%;
+  background: #2bff00a3
+}
+.burgersum{
+  position: absolute;
+  font-size: 25px;
+  top: 110px;
+  left: 1150px;
+}
+.selectburg{
+  position: absolute;
+  top: 180px;
+  left: 1150px;
+}
+.burgergoback{
+  position: absolute;
+  top: 75px;
+  height: 40px;
+  left: 75px;
+}
+.burgerimg{
+  position: absolute;
+  top: 100px;
+  left: 450px;
+  width: 700px;
+}
+.box {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 0;
+}
+.dellayer{
+  position: absolute;
+  left: 700px;
+}
+.myyoutube{
+  width: 100%;
+  height: 600px;
+}
+.selectedvideo{
+  position: absolute;
+  top: 130px;
+  left: 100px;
+  width: 850px;
+}
+.youtubelist{
+  position: absolute;
+  left: 950px;
+  top: 130px;
+  width: 500px;
+}
+.cursor{
+  cursor:pointer;
+  margin-top: 5px;
+  display: flex;
+}
+.videoloading{
+  position: absolute;
+  top: 200px;
+  left: 685px;
+  font-size: 35px;
+}
+.goback{
+  clip-path: polygon(100% 0%, 100% 51%, 100% 100%, 15% 100%, 0% 50%, 15% 0);
+}
+.videoback{
+  position: absolute;
+  left: 75px;
+}
+.cursor:hover{
+  background: #c0bcbc;
+}

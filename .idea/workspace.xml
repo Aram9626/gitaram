@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe522942-4f67-4f59-9307-3805790d45d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VWDsG0AmJmGtTQotfyP6C8xXSC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test/New folder" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe522942-4f67-4f59-9307-3805790d45d6" name="Default Changelist" comment="" />
+      <created>1574769039222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574769039222</updated>
+      <workItem from="1574769041830" duration="18155000" />
+      <workItem from="1574944367847" duration="1863000" />
+      <workItem from="1575288254538" duration="32873000" />
+      <workItem from="1575550318220" duration="16444000" />
+      <workItem from="1575656066315" duration="8579000" />
+      <workItem from="1575795103044" duration="3725000" />
+      <workItem from="1575802375475" duration="14187000" />
+      <workItem from="1575879129568" duration="16802000" />
+      <workItem from="1576149487071" duration="17034000" />
+      <workItem from="1576496134645" duration="23666000" />
+      <workItem from="1576857931887" duration="15577000" />
+      <workItem from="1577177943124" duration="11940000" />
+      <workItem from="1577268220510" duration="6780000" />
+      <workItem from="1577360178229" duration="16145000" />
+      <workItem from="1577613850209" duration="1537000" />
+      <workItem from="1577649085563" duration="1394000" />
+      <workItem from="1578298922975" duration="5705000" />
+      <workItem from="1578563386143" duration="1792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="380" y="0" width="606" height="728" key="find.popup" timestamp="1578303114326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="0" width="606" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1578303114326" />
+  </component>
+</project>
